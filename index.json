@@ -1,18 +1,18 @@
 {
   "verdant": {
-    "version": "0.3.0",
-    "url": "https://raw.githubusercontent.com/verdanttttttt/verdant-mods/main/files/libVerdant-0.3.0.dylib",
-    "sha256": "c4aa9c8dcc0a3d4706cfd330c5070997026989bc60969af5b004e1de4e38c6cf"
+    "version": "0.3.1",
+    "url": "https://raw.githubusercontent.com/verdanttttttt/verdant-mods/main/files/libVerdant-0.3.1.dylib",
+    "sha256": "a253f2ff832bee6797cb246f60f1ea25e33f5988f38c760548dd0fd92b2d7b59"
   },
   "mods": [
     {
       "id": "verdant.hacks",
       "name": "Verdant Hacks",
       "author": "Verdant",
-      "description": "The Tab hack menu: Noclip, Safe Mode, Speedhack, counters and more.",
-      "version": "1.0.0",
-      "url": "https://raw.githubusercontent.com/verdanttttttt/verdant-mods/main/files/verdant.hacks-1.0.0.dylib",
-      "sha256": "d569812594baf74d176a2531a05ec78767422a100aa1d4d6e9145cf6bb1b68be"
+      "description": "The Tab hack menu: Noclip, Safe Mode, Speedhack, hitboxes, labels and more.",
+      "version": "1.1.0",
+      "url": "https://raw.githubusercontent.com/verdanttttttt/verdant-mods/main/files/verdant.hacks-1.1.0.dylib",
+      "sha256": "62819ca5fb80d7854e417f72987d57a65502bd3a0baad95c6d93804e9200ea4b"
     }
   ]
 }
