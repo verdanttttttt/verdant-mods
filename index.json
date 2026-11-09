@@ -1,8 +1,8 @@
 {
   "verdant": {
-    "version": "0.3.1",
-    "url": "https://raw.githubusercontent.com/verdanttttttt/verdant-mods/main/files/libVerdant-0.3.1.dylib",
-    "sha256": "5605f76c0db918fb8c3cdbf8ac2eac31b5e4aefe741b1fc963e53ca2fd50d4ec"
+    "version": "0.3.2",
+    "url": "https://raw.githubusercontent.com/verdanttttttt/verdant-mods/main/files/libVerdant-0.3.2.dylib",
+    "sha256": "d8e9f2d84d9c1b6d41c4048192f62fe7bb961388c496526d66a5c876e6e16628"
   },
   "mods": [
     {
