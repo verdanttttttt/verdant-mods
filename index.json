@@ -1,8 +1,8 @@
 {
   "verdant": {
-    "version": "0.4.0",
-    "url": "https://raw.githubusercontent.com/verdanttttttt/verdant-mods/main/files/libVerdant-0.4.0.dylib",
-    "sha256": "3217343d8b4ce77ed971cc5e66e9f0e7f8159c7902c11fbd12fe1d998da56716"
+    "version": "0.4.1",
+    "url": "https://raw.githubusercontent.com/verdanttttttt/verdant-mods/main/files/libVerdant-0.4.1.dylib",
+    "sha256": "5ee139b46cea4344cff3a8280748976444e54deda6c091909053968cb6b8a96b"
   },
   "mods": [
     {
@@ -19,9 +19,18 @@
       "name": "Verdant Hacks",
       "author": "Verdant",
       "description": "The Tab hack menu: Noclip, Safe Mode, Speedhack, hitboxes, practice tools, a replay bot and more.",
-      "version": "1.5.2",
-      "url": "https://raw.githubusercontent.com/verdanttttttt/verdant-mods/main/files/verdant.hacks-1.5.2.dylib",
-      "sha256": "3ce83461b134a4e1b38a2c4486029df69f57a6108483dd3ed5db6ac9daa0a8f2"
+      "version": "1.6.0",
+      "url": "https://raw.githubusercontent.com/verdanttttttt/verdant-mods/main/files/verdant.hacks-1.6.0.dylib",
+      "sha256": "8f9c5e29f4e146306882eaf2fe221fecaae338d5f8526558e088a23a2307cdd4"
+    },
+    {
+      "id": "verdant.optimizer",
+      "name": "Optimizer",
+      "author": "Verdant",
+      "description": "Makes GD smooth on Mac. Fixes the \"says 60 FPS but feels choppy\" stutter by syncing frames to your screen, stops GD's timer from skipping frames, and gives GD high priority so macOS doesn't throttle it. Turn on the frame graph to see the difference.",
+      "version": "1.0.0",
+      "url": "https://raw.githubusercontent.com/verdanttttttt/verdant-mods/main/files/verdant.optimizer-1.0.0.dylib",
+      "sha256": "b07a9c547daae34258beecc5cd9f3792d9ea9423281aecff2236855c6162035b"
     }
   ]
 }
