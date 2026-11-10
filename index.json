@@ -1,8 +1,8 @@
 {
   "verdant": {
-    "version": "0.3.3",
-    "url": "https://raw.githubusercontent.com/verdanttttttt/verdant-mods/main/files/libVerdant-0.3.3.dylib",
-    "sha256": "16996d228d49a67133482cd8f0949626307e5a82cfa79d7e2e6c2e6ada6eda60"
+    "version": "0.4.0",
+    "url": "https://raw.githubusercontent.com/verdanttttttt/verdant-mods/main/files/libVerdant-0.4.0.dylib",
+    "sha256": "3217343d8b4ce77ed971cc5e66e9f0e7f8159c7902c11fbd12fe1d998da56716"
   },
   "mods": [
     {
@@ -19,9 +19,9 @@
       "name": "Verdant Hacks",
       "author": "Verdant",
       "description": "The Tab hack menu: Noclip, Safe Mode, Speedhack, hitboxes, practice tools, a replay bot and more.",
-      "version": "1.5.1",
-      "url": "https://raw.githubusercontent.com/verdanttttttt/verdant-mods/main/files/verdant.hacks-1.5.1.dylib",
-      "sha256": "276d06f76387716c5d59f4125c3518431595996e10fef1aa3e63fe173f9db2a8"
+      "version": "1.5.2",
+      "url": "https://raw.githubusercontent.com/verdanttttttt/verdant-mods/main/files/verdant.hacks-1.5.2.dylib",
+      "sha256": "3ce83461b134a4e1b38a2c4486029df69f57a6108483dd3ed5db6ac9daa0a8f2"
     }
   ]
 }
