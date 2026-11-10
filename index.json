@@ -22,6 +22,15 @@
       "version": "1.7.2",
       "url": "https://raw.githubusercontent.com/verdanttttttt/verdant-mods/main/files/verdant.hacks-1.7.2.dylib",
       "sha256": "4a051dae0132960c22c55326c689ba41b3089291d029ea7f3cca89654a2a991a"
+    },
+    {
+      "id": "verdant.optimizer",
+      "name": "Optimizer",
+      "author": "Verdant",
+      "description": "Experimental. Tries to smooth out GD on Mac: syncs frames to your screen, keeps GD's timer from holding frames back, and gives GD high priority so macOS doesn't throttle it. Results vary by Mac. Turn on the frame graph to see your frame timing (red bars = stutters).",
+      "version": "1.0.1",
+      "url": "https://raw.githubusercontent.com/verdanttttttt/verdant-mods/main/files/verdant.optimizer-1.0.1.dylib",
+      "sha256": "8327c77b490a72880f37c04b84b3d4876e395fc687edce7290ca6d6669ebe347"
     }
   ]
 }
