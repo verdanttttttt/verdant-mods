@@ -10,18 +10,18 @@
       "name": "Custom Fonts",
       "author": "Verdant",
       "description": "Change all of GD's text to one of 67 free fonts from the internet.",
-      "version": "1.0.0",
-      "url": "https://raw.githubusercontent.com/verdanttttttt/verdant-mods/main/files/verdant.fonts-1.0.0.dylib",
-      "sha256": "770fe747a0bd3b26f772be9b7b914cbfa9aa6e7502eccfa3b948b5cb3e31173a"
+      "version": "1.1.0",
+      "url": "https://raw.githubusercontent.com/verdanttttttt/verdant-mods/main/files/verdant.fonts-1.1.0.dylib",
+      "sha256": "e9ea2ed182ced3424b44955e8b8f355f535e1e02d518891e847b72ca6bab667c"
     },
     {
       "id": "verdant.hacks",
       "name": "Verdant Hacks",
       "author": "Verdant",
       "description": "The Tab hack menu: Noclip, Safe Mode, Speedhack, hitboxes, practice tools, a replay bot and more.",
-      "version": "1.4.1",
-      "url": "https://raw.githubusercontent.com/verdanttttttt/verdant-mods/main/files/verdant.hacks-1.4.1.dylib",
-      "sha256": "b5cdb58e9a5c4a3bacb1472c47a91fa7665a99b2ad73248dd8dbbf716ec4471a"
+      "version": "1.5.0",
+      "url": "https://raw.githubusercontent.com/verdanttttttt/verdant-mods/main/files/verdant.hacks-1.5.0.dylib",
+      "sha256": "7df821a25477a99e23db8157ec424a047484cda6eeb00ef8056c95aaf9044405"
     }
   ]
 }
