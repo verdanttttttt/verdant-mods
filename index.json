@@ -22,15 +22,6 @@
       "version": "1.6.0",
       "url": "https://raw.githubusercontent.com/verdanttttttt/verdant-mods/main/files/verdant.hacks-1.6.0.dylib",
       "sha256": "8f9c5e29f4e146306882eaf2fe221fecaae338d5f8526558e088a23a2307cdd4"
-    },
-    {
-      "id": "verdant.optimizer",
-      "name": "Optimizer",
-      "author": "Verdant",
-      "description": "Makes GD smooth on Mac. Fixes the \"says 60 FPS but feels choppy\" stutter by syncing frames to your screen, stops GD's timer from skipping frames, and gives GD high priority so macOS doesn't throttle it. Turn on the frame graph to see the difference.",
-      "version": "1.0.0",
-      "url": "https://raw.githubusercontent.com/verdanttttttt/verdant-mods/main/files/verdant.optimizer-1.0.0.dylib",
-      "sha256": "b07a9c547daae34258beecc5cd9f3792d9ea9423281aecff2236855c6162035b"
     }
   ]
 }
