@@ -19,9 +19,9 @@
       "name": "Verdant Hacks",
       "author": "Verdant",
       "description": "The Tab hack menu: Noclip, Safe Mode, Speedhack, hitboxes, practice tools, a replay bot and more.",
-      "version": "1.8.1",
-      "url": "https://raw.githubusercontent.com/verdanttttttt/verdant-mods/main/files/verdant.hacks-1.8.1.dylib",
-      "sha256": "cfe8d3a59c9359dca5784e00ac5e338e680907c792518b1b95e3954774a447e6"
+      "version": "1.8.2",
+      "url": "https://raw.githubusercontent.com/verdanttttttt/verdant-mods/main/files/verdant.hacks-1.8.2.dylib",
+      "sha256": "4fef0fd98f9d6a4c62d9a24237bac46182485866158f94f3a9974367c48205b1"
     },
     {
       "id": "verdant.optimizer",
