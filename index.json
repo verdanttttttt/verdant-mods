@@ -1,10 +1,19 @@
 {
   "verdant": {
-    "version": "0.3.2",
-    "url": "https://raw.githubusercontent.com/verdanttttttt/verdant-mods/main/files/libVerdant-0.3.2.dylib",
-    "sha256": "d8e9f2d84d9c1b6d41c4048192f62fe7bb961388c496526d66a5c876e6e16628"
+    "version": "0.3.3",
+    "url": "https://raw.githubusercontent.com/verdanttttttt/verdant-mods/main/files/libVerdant-0.3.3.dylib",
+    "sha256": "16996d228d49a67133482cd8f0949626307e5a82cfa79d7e2e6c2e6ada6eda60"
   },
   "mods": [
+    {
+      "id": "verdant.fonts",
+      "name": "Custom Fonts",
+      "author": "Verdant",
+      "description": "Change all of GD's text to one of 67 free fonts from the internet.",
+      "version": "1.0.0",
+      "url": "https://raw.githubusercontent.com/verdanttttttt/verdant-mods/main/files/verdant.fonts-1.0.0.dylib",
+      "sha256": "770fe747a0bd3b26f772be9b7b914cbfa9aa6e7502eccfa3b948b5cb3e31173a"
+    },
     {
       "id": "verdant.hacks",
       "name": "Verdant Hacks",
