@@ -40,6 +40,15 @@
       "version": "1.0.1",
       "url": "https://raw.githubusercontent.com/verdanttttttt/verdant-mods/main/files/verdant.optimizer-1.0.1.dylib",
       "sha256": "8327c77b490a72880f37c04b84b3d4876e395fc687edce7290ca6d6669ebe347"
+    },
+    {
+      "id": "verdant.puppies",
+      "name": "Puppy Difficulties",
+      "author": "Verdant",
+      "description": "Every difficulty face becomes a chunky cartoon puppy, from sleepy N/A and robot Auto up to the flaming Extreme Demon pup. Works at every texture quality. New screens show the puppies right away.",
+      "version": "1.0.0",
+      "url": "https://raw.githubusercontent.com/verdanttttttt/verdant-mods/main/files/verdant.puppies-1.0.0.dylib",
+      "sha256": "3fc0a18a7877785e314b90717862ae7307337162419c2f8a38ba29810304b40d"
     }
   ]
 }
