@@ -24,6 +24,15 @@
       "sha256": "142062fef633d4ffd72644999b27c3bb952ce808fcf3baa24578e6be7822cc80"
     },
     {
+      "id": "verdant.moments",
+      "name": "Death Sounds & Best Messages",
+      "author": "Verdant",
+      "description": "Play your own sound files when you die, and pop up your own message on a new best. Comes with 3 message packs (Hype, Cozy, Roast) or write your own.",
+      "version": "1.0.0",
+      "url": "https://raw.githubusercontent.com/verdanttttttt/verdant-mods/main/files/verdant.moments-1.0.0.dylib",
+      "sha256": "bd710e7ce22c8d20b2b6acbf9463f46cc492b1d609063730eb198419359db58e"
+    },
+    {
       "id": "verdant.optimizer",
       "name": "Optimizer",
       "author": "Verdant",
