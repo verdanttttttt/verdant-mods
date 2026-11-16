@@ -53,12 +53,39 @@
   ],
   "windows": {
     "verdant": {
-      "version": "0.5.1",
-      "url": "https://raw.githubusercontent.com/verdanttttttt/verdant-mods/main/windows/verdant-0.5.1.dll",
-      "sha256": "cd8e20a68023621868bd212c3fa0b0c6e506a17401cc8b3db9e9311bfc6f3a4d"
+      "version": "0.5.2",
+      "url": "https://raw.githubusercontent.com/verdanttttttt/verdant-mods/main/windows/verdant-0.5.2.dll",
+      "sha256": "314468b4f72f118a299e27ce08b80c10892a160606a2099f5f01d1d22db21780"
     },
     "installer": "https://raw.githubusercontent.com/verdanttttttt/verdant-mods/main/windows/Verdant-Setup.exe",
     "mods": [
+      {
+        "id": "verdant.fonts",
+        "name": "Custom Fonts",
+        "author": "Verdant",
+        "description": "Change all of GD's text to one of 67 free fonts from the internet.",
+        "version": "1.1.0",
+        "url": "https://raw.githubusercontent.com/verdanttttttt/verdant-mods/main/windows/verdant.fonts-1.1.0.dll",
+        "sha256": "0b2505b339984f70d7f9b531f6b0778b49108705fa0c892d730478bf0ec19980"
+      },
+      {
+        "id": "verdant.moments",
+        "name": "Death Sounds & Best Messages",
+        "author": "Verdant",
+        "description": "Play your own sound files when you die, and pop up your own message on a new best. Comes with 3 message packs (Hype, Cozy, Roast) or write your own.",
+        "version": "1.0.0",
+        "url": "https://raw.githubusercontent.com/verdanttttttt/verdant-mods/main/windows/verdant.moments-1.0.0.dll",
+        "sha256": "3ce1435fb9cca0512e0a29aadac099f56c1e5a6970d65388f051cd776443a0b2"
+      },
+      {
+        "id": "verdant.optimizer",
+        "name": "Optimizer",
+        "author": "Verdant",
+        "description": "Experimental. Tries to smooth out GD: syncs frames to your screen, keeps GD's timer from holding frames back, and gives GD high priority so other apps don't slow it down. Results vary by computer. Turn on the frame graph to see your frame timing (red bars = stutters).",
+        "version": "1.0.1",
+        "url": "https://raw.githubusercontent.com/verdanttttttt/verdant-mods/main/windows/verdant.optimizer-1.0.1.dll",
+        "sha256": "70552af220743ab97ad5721c76ba2c743fff9ff3eaeadbdf9513395b9278211b"
+      },
       {
         "id": "verdant.puppies",
         "name": "Puppy Difficulties",
@@ -67,6 +94,15 @@
         "version": "1.0.0",
         "url": "https://raw.githubusercontent.com/verdanttttttt/verdant-mods/main/windows/verdant.puppies-1.0.0.dll",
         "sha256": "7631f8ffe7d82c26162ebaddc439f770cb4ab26ae8e27b4781464423c0c6ae0e"
+      },
+      {
+        "id": "verdant.hacks",
+        "name": "Verdant Hacks",
+        "author": "Verdant",
+        "description": "The Tab hack menu: Noclip, Safe Mode, Speedhack, hitboxes, practice tools, a replay bot and more.",
+        "version": "1.9.6",
+        "url": "https://raw.githubusercontent.com/verdanttttttt/verdant-mods/main/windows/verdant.hacks-1.9.6.dll",
+        "sha256": "c4368d42dd578ea55727e3fb1b9b43199421fdafa9bb0fd10078115a90d4d0d9"
       }
     ]
   }
