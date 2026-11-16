@@ -49,6 +49,15 @@
       "version": "1.0.0",
       "url": "https://raw.githubusercontent.com/verdanttttttt/verdant-mods/main/files/verdant.puppies-1.0.0.dylib",
       "sha256": "3fc0a18a7877785e314b90717862ae7307337162419c2f8a38ba29810304b40d"
+    },
+    {
+      "id": "verdant.jukebox",
+      "name": "Jukebox",
+      "author": "Verdant",
+      "description": "Play your own MP3s as any level's song or as the menu music, picked right inside GD. No more replacing files in GD's folders. Shuffle mode gives every level a random song from your Jukebox.",
+      "version": "1.0.0",
+      "url": "https://raw.githubusercontent.com/verdanttttttt/verdant-mods/main/files/verdant.jukebox-1.0.0.dylib",
+      "sha256": "6aeeadf4a8e20e078dec85cc2813982d7a0b39a663aa812e334b4b8b4bad38d3"
     }
   ],
   "windows": {
@@ -103,6 +112,15 @@
         "version": "1.9.6",
         "url": "https://raw.githubusercontent.com/verdanttttttt/verdant-mods/main/windows/verdant.hacks-1.9.6.dll",
         "sha256": "c4368d42dd578ea55727e3fb1b9b43199421fdafa9bb0fd10078115a90d4d0d9"
+      },
+      {
+        "id": "verdant.jukebox",
+        "name": "Jukebox",
+        "author": "Verdant",
+        "description": "Play your own MP3s as any level's song or as the menu music, picked right inside GD. No more replacing files in GD's folders. Shuffle mode gives every level a random song from your Jukebox.",
+        "version": "1.0.0",
+        "url": "https://raw.githubusercontent.com/verdanttttttt/verdant-mods/main/windows/verdant.jukebox-1.0.0.dll",
+        "sha256": "b0aba6792449ef34909d9ed2c200d4882c5b4c3e81935a1a760672b3170a868a"
       }
     ]
   }
