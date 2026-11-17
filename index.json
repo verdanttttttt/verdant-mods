@@ -19,9 +19,9 @@
       "name": "Verdant Hacks",
       "author": "Verdant",
       "description": "The Tab hack menu: Noclip, Safe Mode, Speedhack, hitboxes, practice tools, a replay bot and more.",
-      "version": "1.9.6",
-      "url": "https://raw.githubusercontent.com/verdanttttttt/verdant-mods/main/files/verdant.hacks-1.9.6.dylib",
-      "sha256": "e36bca7d9d0fc148d0f8c76079f9703751771add66bbd78448c24b80091a5c75"
+      "version": "1.9.7",
+      "url": "https://raw.githubusercontent.com/verdanttttttt/verdant-mods/main/files/verdant.hacks-1.9.7.dylib",
+      "sha256": "c45e79421322308d40394cbba201dcc5c6740048203235cca28fb39a29319597"
     },
     {
       "id": "verdant.moments",
@@ -64,9 +64,9 @@
       "name": "Jukebox",
       "author": "Verdant",
       "description": "Play your own MP3s as any level's song or as the menu music. Every song card in GD gets a Jukebox button: click it, pick or add a song (with preview), done. No replacing files. Shuffle mode gives every level a random song from your Jukebox.",
-      "version": "1.1.0",
-      "url": "https://raw.githubusercontent.com/verdanttttttt/verdant-mods/main/files/verdant.jukebox-1.1.0.dylib",
-      "sha256": "90a96071ac5541021a265184059fe5299fc59dc127db697e55e8397768b6d025"
+      "version": "1.1.1",
+      "url": "https://raw.githubusercontent.com/verdanttttttt/verdant-mods/main/files/verdant.jukebox-1.1.1.dylib",
+      "sha256": "85d948ee08e5b84f5b8e89cd1819e39b12c6764b010666716095484572262945"
     }
   ],
   "windows": {
@@ -82,9 +82,9 @@
         "name": "Custom Fonts",
         "author": "Verdant",
         "description": "Change all of GD's text to one of 67 free fonts from the internet.",
-        "version": "1.1.0",
-        "url": "https://raw.githubusercontent.com/verdanttttttt/verdant-mods/main/windows/verdant.fonts-1.1.0.dll",
-        "sha256": "0b2505b339984f70d7f9b531f6b0778b49108705fa0c892d730478bf0ec19980"
+        "version": "1.1.1",
+        "url": "https://raw.githubusercontent.com/verdanttttttt/verdant-mods/main/windows/verdant.fonts-1.1.1.dll",
+        "sha256": "7ada315d2735b911c1dbf52b179ed86f85324469e98bc3bd91100972b71bc667"
       },
       {
         "id": "verdant.moments",
@@ -118,9 +118,9 @@
         "name": "Verdant Hacks",
         "author": "Verdant",
         "description": "The Tab hack menu: Noclip, Safe Mode, Speedhack, hitboxes, practice tools, a replay bot and more.",
-        "version": "1.9.6",
-        "url": "https://raw.githubusercontent.com/verdanttttttt/verdant-mods/main/windows/verdant.hacks-1.9.6.dll",
-        "sha256": "c4368d42dd578ea55727e3fb1b9b43199421fdafa9bb0fd10078115a90d4d0d9"
+        "version": "1.9.7",
+        "url": "https://raw.githubusercontent.com/verdanttttttt/verdant-mods/main/windows/verdant.hacks-1.9.7.dll",
+        "sha256": "090b4a6056622bca1e9bc6ae33e77c54bbbfef5a7d50dcc7012a8981b37fb5fd"
       },
       {
         "id": "verdant.cloudsync",
@@ -136,9 +136,9 @@
         "name": "Jukebox",
         "author": "Verdant",
         "description": "Play your own MP3s as any level's song or as the menu music. Every song card in GD gets a Jukebox button: click it, pick or add a song (with preview), done. No replacing files. Shuffle mode gives every level a random song from your Jukebox.",
-        "version": "1.1.0",
-        "url": "https://raw.githubusercontent.com/verdanttttttt/verdant-mods/main/windows/verdant.jukebox-1.1.0.dll",
-        "sha256": "aad86d5ad9df831381f9404f2f18e2d105f26f97ad3ad10a0135a24fead3d0a7"
+        "version": "1.1.1",
+        "url": "https://raw.githubusercontent.com/verdanttttttt/verdant-mods/main/windows/verdant.jukebox-1.1.1.dll",
+        "sha256": "9f7b272574f553025be0fd1a4c430a1d336f5207e31769012abbd304198ff077"
       }
     ]
   }
