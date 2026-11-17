@@ -64,16 +64,16 @@
       "name": "Cloud Sync",
       "author": "Verdant",
       "description": "Your GD progress stays the same on all your computers, automatically. Loads your account's save when GD starts and saves it after levels and when you quit, using GD's own account Save/Load. A small badge in the corner shows when it's syncing. If GD ever closed before it could save, it asks which progress to keep instead of overwriting anything.",
-      "version": "1.0.2",
-      "url": "https://raw.githubusercontent.com/verdanttttttt/verdant-mods/main/files/verdant.cloudsync-1.0.2.dylib",
-      "sha256": "ae0487b9338067bd3bcec502f573384022baabe36d01c582eb2e82f47a41537b"
+      "version": "1.0.3",
+      "url": "https://raw.githubusercontent.com/verdanttttttt/verdant-mods/main/files/verdant.cloudsync-1.0.3.dylib",
+      "sha256": "a34fc41582de92324d3ba1ada7063654521c4ed22d34260510c5e571145938ac"
     }
   ],
   "windows": {
     "verdant": {
-      "version": "0.5.2",
-      "url": "https://raw.githubusercontent.com/verdanttttttt/verdant-mods/main/windows/verdant-0.5.2.dll",
-      "sha256": "314468b4f72f118a299e27ce08b80c10892a160606a2099f5f01d1d22db21780"
+      "version": "0.5.3",
+      "url": "https://raw.githubusercontent.com/verdanttttttt/verdant-mods/main/windows/verdant-0.5.3.dll",
+      "sha256": "4e421b776a8bf6dc8a512be30406aa70cdd5757d4d781f414c5f27cad18fe71b"
     },
     "installer": "https://raw.githubusercontent.com/verdanttttttt/verdant-mods/main/windows/Verdant-Setup.exe",
     "mods": [
@@ -136,9 +136,9 @@
         "name": "Cloud Sync",
         "author": "Verdant",
         "description": "Your GD progress stays the same on all your computers, automatically. Loads your account's save when GD starts and saves it after levels and when you quit, using GD's own account Save/Load. A small badge in the corner shows when it's syncing. If GD ever closed before it could save, it asks which progress to keep instead of overwriting anything.",
-        "version": "1.0.2",
-        "url": "https://raw.githubusercontent.com/verdanttttttt/verdant-mods/main/windows/verdant.cloudsync-1.0.2.dll",
-        "sha256": "7efd431d5e6c3d071a709a81c54035c00da90a003883c4bbfcdeb76513972672"
+        "version": "1.0.3",
+        "url": "https://raw.githubusercontent.com/verdanttttttt/verdant-mods/main/windows/verdant.cloudsync-1.0.3.dll",
+        "sha256": "56736e173fbf68998ff06d94b047774e964e538371ba9c67e5ef021b65c15cfc"
       }
     ]
   }
