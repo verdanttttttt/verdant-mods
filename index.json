@@ -64,9 +64,9 @@
       "name": "Cloud Sync",
       "author": "Verdant",
       "description": "Your GD progress stays the same on all your computers, automatically. Loads your account's save when GD starts and saves it after levels and when you quit, using GD's own account Save/Load. A small badge in the corner shows when it's syncing. If GD ever closed before it could save, it asks which progress to keep instead of overwriting anything.",
-      "version": "1.0.3",
-      "url": "https://raw.githubusercontent.com/verdanttttttt/verdant-mods/main/files/verdant.cloudsync-1.0.3.dylib",
-      "sha256": "a34fc41582de92324d3ba1ada7063654521c4ed22d34260510c5e571145938ac"
+      "version": "1.0.4",
+      "url": "https://raw.githubusercontent.com/verdanttttttt/verdant-mods/main/files/verdant.cloudsync-1.0.4.dylib",
+      "sha256": "145322e1eca715144a285efa026282bfbf633d206aaffaec25045653146a0780"
     }
   ],
   "windows": {
@@ -136,9 +136,9 @@
         "name": "Cloud Sync",
         "author": "Verdant",
         "description": "Your GD progress stays the same on all your computers, automatically. Loads your account's save when GD starts and saves it after levels and when you quit, using GD's own account Save/Load. A small badge in the corner shows when it's syncing. If GD ever closed before it could save, it asks which progress to keep instead of overwriting anything.",
-        "version": "1.0.3",
-        "url": "https://raw.githubusercontent.com/verdanttttttt/verdant-mods/main/windows/verdant.cloudsync-1.0.3.dll",
-        "sha256": "56736e173fbf68998ff06d94b047774e964e538371ba9c67e5ef021b65c15cfc"
+        "version": "1.0.4",
+        "url": "https://raw.githubusercontent.com/verdanttttttt/verdant-mods/main/windows/verdant.cloudsync-1.0.4.dll",
+        "sha256": "8f4a8b976de76159c125fb323fd8e1036d3dd53a272618483b4d272c5e9fc30c"
       }
     ]
   }
