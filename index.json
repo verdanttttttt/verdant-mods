@@ -64,9 +64,9 @@
       "name": "Jukebox",
       "author": "Verdant",
       "description": "Play your own MP3s as any level's song or as the menu music. Every song card in GD gets a Jukebox button: click it, pick or add a song (with preview), done. No replacing files. Shuffle mode gives every level a random song from your Jukebox.",
-      "version": "1.1.1",
-      "url": "https://raw.githubusercontent.com/verdanttttttt/verdant-mods/main/files/verdant.jukebox-1.1.1.dylib",
-      "sha256": "85d948ee08e5b84f5b8e89cd1819e39b12c6764b010666716095484572262945"
+      "version": "1.2.0",
+      "url": "https://raw.githubusercontent.com/verdanttttttt/verdant-mods/main/files/verdant.jukebox-1.2.0.dylib",
+      "sha256": "684d65fbcf60d78200ebb22a9edcf1ca23c8d7df58567a7c1997baaaaf78125d"
     }
   ],
   "windows": {
@@ -136,9 +136,9 @@
         "name": "Jukebox",
         "author": "Verdant",
         "description": "Play your own MP3s as any level's song or as the menu music. Every song card in GD gets a Jukebox button: click it, pick or add a song (with preview), done. No replacing files. Shuffle mode gives every level a random song from your Jukebox.",
-        "version": "1.1.1",
-        "url": "https://raw.githubusercontent.com/verdanttttttt/verdant-mods/main/windows/verdant.jukebox-1.1.1.dll",
-        "sha256": "9f7b272574f553025be0fd1a4c430a1d336f5207e31769012abbd304198ff077"
+        "version": "1.2.0",
+        "url": "https://raw.githubusercontent.com/verdanttttttt/verdant-mods/main/windows/verdant.jukebox-1.2.0.dll",
+        "sha256": "c6b536d5a433588b1f9f641f5225b37dc65724fc766b4001b222732448f0badf"
       }
     ]
   }
