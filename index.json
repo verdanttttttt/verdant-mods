@@ -55,25 +55,25 @@
       "name": "Cloud Sync",
       "author": "Verdant",
       "description": "Your GD progress stays the same on all your computers, automatically. Loads your account's save when GD starts and saves it after levels and when you quit, using GD's own account Save/Load. A small badge in the corner shows when it's syncing. If GD ever closed before it could save, it asks which progress to keep instead of overwriting anything.",
-      "version": "1.0.5",
-      "url": "https://raw.githubusercontent.com/verdanttttttt/verdant-mods/main/files/verdant.cloudsync-1.0.5.dylib",
-      "sha256": "c909a638739f57e06b4c6c9fb1826182672de8eb9169d4af751e935e17ca05a7"
+      "version": "1.0.6",
+      "url": "https://raw.githubusercontent.com/verdanttttttt/verdant-mods/main/files/verdant.cloudsync-1.0.6.dylib",
+      "sha256": "3add61e28cc4f59ddb3226d69cd5acac2aa4056c5d4c011124bc9424ae348864"
     },
     {
       "id": "verdant.jukebox",
       "name": "Jukebox",
       "author": "Verdant",
       "description": "Play your own MP3s as any level's song or as the menu music. Every song card in GD gets a Jukebox button: click it, pick or add a song (with preview), done. No replacing files. Shuffle mode gives every level a random song from your Jukebox.",
-      "version": "1.2.0",
-      "url": "https://raw.githubusercontent.com/verdanttttttt/verdant-mods/main/files/verdant.jukebox-1.2.0.dylib",
-      "sha256": "684d65fbcf60d78200ebb22a9edcf1ca23c8d7df58567a7c1997baaaaf78125d"
+      "version": "1.2.2",
+      "url": "https://raw.githubusercontent.com/verdanttttttt/verdant-mods/main/files/verdant.jukebox-1.2.2.dylib",
+      "sha256": "b534f702772868052d7cd7966aeeacb2e61ab035af8ee059fe47cc5b9d528f05"
     }
   ],
   "windows": {
     "verdant": {
-      "version": "0.5.4",
-      "url": "https://raw.githubusercontent.com/verdanttttttt/verdant-mods/main/windows/verdant-0.5.4.dll",
-      "sha256": "8413f9d3437269ba711873d0ddda9841774f82ae1d38bf904d0de488ef3470b7"
+      "version": "0.5.5",
+      "url": "https://raw.githubusercontent.com/verdanttttttt/verdant-mods/main/windows/verdant-0.5.5.dll",
+      "sha256": "868e82b28e402e190561db7ece0bb8c8092aecd011a8a0c2de46e80342ed5d81"
     },
     "installer": "https://raw.githubusercontent.com/verdanttttttt/verdant-mods/main/windows/Verdant-Setup.exe",
     "mods": [
@@ -127,18 +127,18 @@
         "name": "Cloud Sync",
         "author": "Verdant",
         "description": "Your GD progress stays the same on all your computers, automatically. Loads your account's save when GD starts and saves it after levels and when you quit, using GD's own account Save/Load. A small badge in the corner shows when it's syncing. If GD ever closed before it could save, it asks which progress to keep instead of overwriting anything.",
-        "version": "1.0.5",
-        "url": "https://raw.githubusercontent.com/verdanttttttt/verdant-mods/main/windows/verdant.cloudsync-1.0.5.dll",
-        "sha256": "255d76dcad639f20da3aba5834527452ebfda97de60344f6f38bc90a73a348d8"
+        "version": "1.0.6",
+        "url": "https://raw.githubusercontent.com/verdanttttttt/verdant-mods/main/windows/verdant.cloudsync-1.0.6.dll",
+        "sha256": "3ea2b041fe1ea4bf979a542bbe7cf9581355d543c45f55a123f0d9a41c83547e"
       },
       {
         "id": "verdant.jukebox",
         "name": "Jukebox",
         "author": "Verdant",
         "description": "Play your own MP3s as any level's song or as the menu music. Every song card in GD gets a Jukebox button: click it, pick or add a song (with preview), done. No replacing files. Shuffle mode gives every level a random song from your Jukebox.",
-        "version": "1.2.0",
-        "url": "https://raw.githubusercontent.com/verdanttttttt/verdant-mods/main/windows/verdant.jukebox-1.2.0.dll",
-        "sha256": "c6b536d5a433588b1f9f641f5225b37dc65724fc766b4001b222732448f0badf"
+        "version": "1.2.2",
+        "url": "https://raw.githubusercontent.com/verdanttttttt/verdant-mods/main/windows/verdant.jukebox-1.2.2.dll",
+        "sha256": "cdda49f063439324b003f9258d7a5a715b1c6da300ea09827507b5d4ad7b937d"
       }
     ]
   }
