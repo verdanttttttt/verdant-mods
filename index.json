@@ -64,16 +64,16 @@
       "name": "Jukebox",
       "author": "Verdant",
       "description": "Play your own MP3s as any level's song or as the menu music. Every song card in GD gets a Jukebox button: click it, pick or add a song (with preview), done. No replacing files. Shuffle mode gives every level a random song from your Jukebox.",
-      "version": "1.2.3",
-      "url": "https://raw.githubusercontent.com/verdanttttttt/verdant-mods/main/files/verdant.jukebox-1.2.3.dylib",
-      "sha256": "a3223b401cf7689d6908c66b34eec92b12dec62e5509d32e6d07fb5a15aab127"
+      "version": "1.2.4",
+      "url": "https://raw.githubusercontent.com/verdanttttttt/verdant-mods/main/files/verdant.jukebox-1.2.4.dylib",
+      "sha256": "2d220a4a9022c4ed8b92694ff525e26bd196974e940b192fc69823eb1239a4dc"
     }
   ],
   "windows": {
     "verdant": {
-      "version": "0.5.5",
-      "url": "https://raw.githubusercontent.com/verdanttttttt/verdant-mods/main/windows/verdant-0.5.5.dll",
-      "sha256": "868e82b28e402e190561db7ece0bb8c8092aecd011a8a0c2de46e80342ed5d81"
+      "version": "0.5.6",
+      "url": "https://raw.githubusercontent.com/verdanttttttt/verdant-mods/main/windows/verdant-0.5.6.dll",
+      "sha256": "6c838c24ea691c9b95036beab0f8395ba0f7505df5f1ad1ebdb9d05f3183affe"
     },
     "installer": "https://raw.githubusercontent.com/verdanttttttt/verdant-mods/main/windows/Verdant-Setup.exe",
     "mods": [
@@ -136,9 +136,9 @@
         "name": "Jukebox",
         "author": "Verdant",
         "description": "Play your own MP3s as any level's song or as the menu music. Every song card in GD gets a Jukebox button: click it, pick or add a song (with preview), done. No replacing files. Shuffle mode gives every level a random song from your Jukebox.",
-        "version": "1.2.3",
-        "url": "https://raw.githubusercontent.com/verdanttttttt/verdant-mods/main/windows/verdant.jukebox-1.2.3.dll",
-        "sha256": "33ed79d1bf00d05f2e476c5aff9e60c6015a67c7975b4024584521c3106ee21e"
+        "version": "1.2.4",
+        "url": "https://raw.githubusercontent.com/verdanttttttt/verdant-mods/main/windows/verdant.jukebox-1.2.4.dll",
+        "sha256": "f018d157bda94c9b8d58b75b5b1e9b36ec43e45e17dee2e38193cd584f342d33"
       }
     ]
   }
