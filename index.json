@@ -71,9 +71,9 @@
   ],
   "windows": {
     "verdant": {
-      "version": "0.5.6",
-      "url": "https://raw.githubusercontent.com/verdanttttttt/verdant-mods/main/windows/verdant-0.5.6.dll",
-      "sha256": "6c838c24ea691c9b95036beab0f8395ba0f7505df5f1ad1ebdb9d05f3183affe"
+      "version": "0.5.7",
+      "url": "https://raw.githubusercontent.com/verdanttttttt/verdant-mods/main/windows/verdant-0.5.7.dll",
+      "sha256": "66de36697e55cf7529af473bb9fa8acf87d3ff2b4cc3ca0b350e41d82cc1512d"
     },
     "installer": "https://raw.githubusercontent.com/verdanttttttt/verdant-mods/main/windows/Verdant-Setup.exe",
     "mods": [
