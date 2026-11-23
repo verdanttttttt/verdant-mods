@@ -19,9 +19,9 @@
       "name": "Verdant Hacks",
       "author": "Verdant",
       "description": "The Tab hack menu: Noclip, Safe Mode, Speedhack, hitboxes, practice tools, a replay bot, Discord status and more.",
-      "version": "2.0.2",
-      "url": "https://raw.githubusercontent.com/verdanttttttt/verdant-mods/main/files/verdant.hacks-2.0.2.dylib",
-      "sha256": "7bcce233a2c6871044458ea3b8b804c34eebeb871afad7580a50cb9fc366bdfd"
+      "version": "2.0.3",
+      "url": "https://raw.githubusercontent.com/verdanttttttt/verdant-mods/main/files/verdant.hacks-2.0.3.dylib",
+      "sha256": "0a37f963bc542d52ca94203d7af503945e0b471145ab46925d1a78e45558e4ed"
     },
     {
       "id": "verdant.moments",
@@ -118,9 +118,9 @@
         "name": "Verdant Hacks",
         "author": "Verdant",
         "description": "The Tab hack menu: Noclip, Safe Mode, Speedhack, hitboxes, practice tools, a replay bot, Discord status and more.",
-        "version": "2.0.2",
-        "url": "https://raw.githubusercontent.com/verdanttttttt/verdant-mods/main/windows/verdant.hacks-2.0.2.dll",
-        "sha256": "8c24fdb2f9766c512922567f40f2599c224d56a7f56a4052d606a46e035d992f"
+        "version": "2.0.3",
+        "url": "https://raw.githubusercontent.com/verdanttttttt/verdant-mods/main/windows/verdant.hacks-2.0.3.dll",
+        "sha256": "a2edf577baac976769de340f8b58160c408c3b8efb72620c63b4ffafa0e217a8"
       },
       {
         "id": "verdant.cloudsync",
